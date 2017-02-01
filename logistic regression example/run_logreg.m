@@ -42,7 +42,7 @@ ylabel('sd($$U_J(d)$$)','Interpreter','Latex','FontSize',16);
 legend('MC','RQMC')
 
 
-%% %% LOGISTIC REGRESSION EXAMPLE regenerated prior simulations
+%% LOGISTIC REGRESSION EXAMPLE regenerated prior simulations
 
 load('Xrand.mat'); % test design
 
